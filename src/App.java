@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
  * @author Andres Sepulveda
- * */
+ **/
 
 public class App {
 
