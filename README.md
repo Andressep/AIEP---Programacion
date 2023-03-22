@@ -1,6 +1,7 @@
 ## FUNDAMENTOS DE PROGRAMACIÓN COMPUTACIONAL
 
 CASO
+
 En este caso veremos un ejemplo del cálculo del sueldo de los trabajadores de una empresa.
 Se te ha encargado el cálculo de los sueldos y bonos de los empleados de una empresa llamada
 “Librería No Leo”.

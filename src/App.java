@@ -1,4 +1,7 @@
 import java.util.Scanner;
+/**
+ * @author Andres Sepulveda
+ * */
 
 public class App {
 
@@ -61,7 +64,6 @@ public class App {
         int descuentosMedicos = 0;
 
         while(!isFuncionando) {
-
             System.out.println("Ingrese el numero de horas trabajadas este mes: ");
             int normales = scanner.nextInt();
             System.out.println("Ingrese cuantas horas extras realizo este mes:");
@@ -109,6 +111,5 @@ public class App {
             System.out.println("El pago total de sus servicios este mes es de: " + sueldoRecibido);
             isFuncionando = true;
         }
-    
     }
 }
